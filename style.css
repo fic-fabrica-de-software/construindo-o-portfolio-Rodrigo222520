@@ -1,9 +1,22 @@
 body{
     background-color: dodgerblue;
     color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#flex{
-    display: flex;
+.flex{
+    width:500px;
     padding:5px;
+
+}
+
+#imagens{
+    width: 100px;
+}
+
+.flex2{
+    margin: 0px;
+    padding: 5px;
+    display: flex;
+    text-align: right;
 }
