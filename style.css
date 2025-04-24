@@ -3,6 +3,7 @@ body{
     color: black;
 }
 
-.flex{
+#flex{
     display: flex;
+    padding:5px;
 }
