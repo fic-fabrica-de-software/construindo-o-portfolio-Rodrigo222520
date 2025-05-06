@@ -11,7 +11,7 @@ body{
 }
 
 #imagens{
-    width: 100px;
+    width: 75px;
 }
 
 .flex2{
@@ -20,3 +20,4 @@ body{
     display: flex;
     text-align: right;
 }
+
