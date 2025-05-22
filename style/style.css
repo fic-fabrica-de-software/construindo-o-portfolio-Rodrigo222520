@@ -7,7 +7,6 @@ body{
 .flex{
     width:500px;
     padding:5px;
-
 }
 
 #imagens{
@@ -20,6 +19,17 @@ body{
     display: flex;
     text-align: right;
     gap: 10px;
+    
+}
+
+.textoDireita{
+    padding-left: 70%;
+    
+    
+}
+
+.subir{
+    height: 20px;
 }
 
 
